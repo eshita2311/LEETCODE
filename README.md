@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0836-rectangle-overlap](https://github.com/eshita2311/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/eshita2311/LEETCODE/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/eshita2311/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/eshita2311/LEETCODE/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/eshita2311/LEETCODE/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/eshita2311/LEETCODE/tree/master/1872-stone-game-viii) |
@@ -225,4 +226,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/eshita2311/LEETCODE/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/eshita2311/LEETCODE/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
